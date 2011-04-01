@@ -1,0 +1,32 @@
+Metadata-Version: 1.0
+Name: scikits.timeseries
+Version: 0.91.3
+Summary: Time series manipulation
+Home-page: http://pytseries.sourceforge.net
+Author: Pierre GERARD-MARCHANT
+Author-email: pierregmcode_AT_gmail_DOT_com
+License: BSD
+Description: 
+        The scikits.timeseries module provides classes and functions for manipulating,
+        reporting, and plotting time series of various frequencies. The focus is on
+        convenient data access and manipulation while leveraging the existing
+        mathematical functionality in Numpy and SciPy.
+        
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
